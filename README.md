@@ -115,10 +115,10 @@
     <p>NIM : 24416255201026</p>
     <p>KELAS : IF24B</p>
     <div class="header-img">
-      <img src="gambar_1.png" alt="hiasan" style="float:right; width:250px; margin-top:-200px;">
+      <img src="gambar_1.png" alt="hiasan" style="float:right; width:100px; margin-top:-200px;">
     </div>
     <div class="header-img">
-      <img src="gambar_2.png" alt="hiasan" style="float:left; width:250px; margin-top:-200px;">
+      <img src="gambar_2.png" alt="hiasan" style="float:left; width:100px; margin-top:-200px;">
     </div>
   </header>
 
